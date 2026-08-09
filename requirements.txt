@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Classical machine learning
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+scikit-posthocs
+statsmodels
+
+# Interpretability
+shap
+
+# Deep learning (hybrid multimodal notebook)
+tensorflow
+opencv-python
+
+# Utilities
+psutil
+requests
